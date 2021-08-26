@@ -14,9 +14,9 @@ setuptools.setup(
     long_description_content_type="text/markdown",  # README.md is of type 'markdown'
     author='Shazib Mustafa',
     author_email='shaojoiya@gmail.com',
-    url='https://github.com/mike-huls/toolbox_public', 
+    url='https://github.com/shazib96/seriesbox_public', 
     project_urls = {                                # Optional
-        "Bug Tracker": "https://github.com/mike-huls/toolbox_public/issues"
+        "Bug Tracker": "https://github.com/shazib96/seriesbox_public/issues"
     },
     install_requires=['requests'],                  # list all packages that your package uses
     keywords=["pypi", "shazib_seriesbox", "tutorial"], #descriptive meta-data
