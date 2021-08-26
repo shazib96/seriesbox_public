@@ -32,5 +32,5 @@ setuptools.setup(
     ],
     
     
-    download_url="https://github.com/mike-huls/toolbox_public/archive/refs/tags/0.0.3.tar.gz",
+    download_url="https://github.com/shazib96/seriesbox_public/releases/tag/v1.0",
 )
