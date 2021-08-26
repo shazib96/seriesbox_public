@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='shazib_seriesbox',                           # should match the package folder
     packages=['shazib_seriesbox'],                     # should match the package folder
-    version='0.0.3',                                # important for updates
+    version='v1.0',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description='Testing installation of Package',
     long_description=long_description,              # loads your README.md
